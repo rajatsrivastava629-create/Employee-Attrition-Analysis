@@ -1,0 +1,21 @@
+MEASURES
+--------
+Total Employees = COUNTROWS('HR_Employee_Attrition')
+
+Employees Left = CALCULATE([Total Employees], 'HR_Employee_Attrition'[Attrition] = "Yes")
+
+Employees Stayed = CALCULATE([Total Employees], 'HR_Employee_Attrition'[Attrition] = "No")
+
+Attrition Rate = DIVIDE([Employees Left], [Total Employees], 0)
+
+Average Monthly Income = AVERAGE('HR_Employee_Attrition'[MonthlyIncome])
+
+Suggested visuals:
+1. KPI Cards: Total Employees, Employees Left, Attrition Rate, Average Monthly Income
+2. Clustered bar: Attrition Rate by Department
+3. Bar: Attrition Rate by JobRole
+4. Donut: Attrition by OverTime
+5. Column: Attrition by Age Group
+6. Column: Attrition by JobSatisfaction
+7. Table: JobRole, Total Employees, Employees Left, Attrition Rate
+8. Slicers: Department, Gender, JobRole, OverTime, MaritalStatus

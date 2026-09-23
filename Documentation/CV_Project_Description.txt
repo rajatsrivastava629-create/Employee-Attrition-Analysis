@@ -1,0 +1,5 @@
+Employee Attrition Analysis | Excel, SQL, Power BI
+• Analyzed 1,470 employee HR records to identify attrition patterns across department, job role, overtime, age and job satisfaction.
+• Built Excel KPI and Pivot-style analysis for employee attrition and workforce trends.
+• Developed SQL queries using aggregation, CASE statements and GROUP BY to calculate attrition KPIs and segment-level rates.
+• Designed an interactive dashboard specification with KPI cards, department/job-role analysis, overtime and age-group views.
