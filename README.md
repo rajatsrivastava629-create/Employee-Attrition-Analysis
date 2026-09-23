@@ -6,9 +6,6 @@ Employee Attrition Analysis is a data analytics project focused on identifying p
 
 The project analyzes **1,470 employee HR records** using Advanced Excel and SQL to understand attrition across different employee and workplace factors.
 
-📊 Dashboard Preview
-
-![Employee Attrition Dashboard](Excel/Excel_Dashboard.png)
 
 ## 🛠️ Tools & Technologies
 
