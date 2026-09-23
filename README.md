@@ -1,26 +1,34 @@
 # Employee Attrition Analysis
 
-## Dataset
-IBM HR Analytics Employee Attrition & Performance dataset.
-Rows: 1470
-Columns: 35
+## 📌 Project Overview
 
-## Tools
-Excel, MySQL, Power BI.
+Employee Attrition Analysis is a data analytics project focused on identifying patterns and factors associated with employee attrition.
 
-## Key KPIs from the dataset
-- Total employees: 1470
-- Employees left: 237
-- Employees stayed: 1233
-- Attrition rate: 16.12%
-- Average monthly income: $6,503
+The project analyzes **1,470 employee HR records** using Advanced Excel and SQL to understand attrition across different employee and workplace factors.
 
-## Project contents
-- Dataset/HR_Employee_Attrition.csv — original dataset copy
-- Excel/Employee_Attrition_Analysis.xlsx — completed Excel analysis workbook with dashboard
-- SQL/Employee_Attrition_Analysis.sql — SQL analysis queries
-- PowerBI/DAX_Measures_and_Dashboard_Spec.txt — DAX measures and dashboard build specification
-- PowerBI/Dashboard_Preview.png — finished dashboard preview
-- Documentation/ — project notes
+## 🛠️ Tools & Technologies
+
+- Advanced Excel
+- SQL
+- Power BI (dashboard preview/specification)
+
+## 🔍 Key Analysis
+
+- Employee attrition rate
+- Attrition by department
+- Attrition by job role
+- Attrition by overtime
+- Attrition by age group
+- Attrition by job satisfaction
+- Attrition by monthly income
+- Years at company and attrition patterns
+
+## 📈 Key Metrics
+
+- **Total Employees:** 1,470
+- **Employees Left:** 237
+- **Employees Stayed:** 1,233
+- **Overall Attrition Rate:** 16.12%
+
 
 
