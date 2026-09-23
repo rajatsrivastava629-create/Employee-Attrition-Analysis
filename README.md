@@ -23,5 +23,4 @@ Excel, MySQL, Power BI.
 - PowerBI/Dashboard_Preview.png — finished dashboard preview
 - Documentation/ — project notes
 
-## Important
-The Excel dashboard is fully included. The PNG is a Power BI-style dashboard preview. A native `.pbix` file cannot be generated outside Power BI Desktop, so do not claim that a `.pbix` file is included.
+
