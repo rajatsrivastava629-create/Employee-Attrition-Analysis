@@ -6,6 +6,12 @@ Employee Attrition Analysis is a data analytics project focused on analyzing emp
 
 The project analyzes **1,470 employee records** using **Advanced Excel and SQL** to uncover attrition patterns across departments, job roles, overtime, age groups, job satisfaction, income, and years at the company.
 
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajatsrivastava629-create/Employee-Attrition-Analysis/main/Dashboard_Preview.png" alt="Employee Attrition Analysis Dashboard" width="100%">
+</p>
+
 
 ## 🛠️ Tools & Technologies
 
